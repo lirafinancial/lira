@@ -2,6 +2,6 @@
 Lira Token
 
 This is the repository of Lira Token Project.
-Ethereum/BSC/Cronos/Polygon/Avalanche/Fantom Chain cryptocurrency.
+Cryptocurrency deployed on Ethereum/BSC/Cronos/Polygon/Avalanche/Fantom/Solana/Tron/Waves/Terra/TerraClassic chains.
 
-![lira_256x256](https://user-images.githubusercontent.com/7435480/177863634-0afb3ba1-e665-413a-b627-ad5b53b2771c.png)
+![lira_256x256](https://user-images.githubusercontent.com/7435480/182617863-704f1f17-9045-4f1a-8088-fe90c5554961.png)
